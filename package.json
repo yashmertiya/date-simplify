@@ -1,0 +1,28 @@
+{
+  "name": "date-simplify",
+  "version": "1.0.0",
+  "description": "A NPM Package for simplifing the date formates",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yashmertiya/date-simplify.git"
+  },
+  "keywords": [
+    "NPM",
+    "Date",
+    "formatter",
+    "Dates"
+  ],
+  "author": "Yashraj Singh Rathore",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yashmertiya/date-simplify/issues"
+  },
+  "homepage": "https://github.com/yashmertiya/date-simplify#readme",
+  "dependencies": {
+    "date-fns": "^4.1.0"
+  }
+}
