@@ -1,5 +1,5 @@
 {
-  "name": "date-simplify",
+  "name": "time-simplify",
   "version": "1.0.0",
   "description": "A NPM Package for simplifing the date formates",
   "main": "index.js",
@@ -21,8 +21,5 @@
   "bugs": {
     "url": "https://github.com/yashmertiya/date-simplify/issues"
   },
-  "homepage": "https://github.com/yashmertiya/date-simplify#readme",
-  "dependencies": {
-    "date-fns": "^4.1.0"
-  }
+  "homepage": "https://github.com/yashmertiya/date-simplify#readme"
 }
