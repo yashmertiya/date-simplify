@@ -1,6 +1,6 @@
 # Date Format Helper
 
-`time-sortner` is a simple and flexible npm package that allows users to format date strings or timestamps into various patterns. The package supports a wide range of formats and ensures that the date and time are always preserved without adjusting for time zones.
+`time-simplify` is a simple and flexible npm package that allows users to format date strings or timestamps into various patterns. The package supports a wide range of formats and ensures that the date and time are always preserved without adjusting for time zones.
 
 ---
 
@@ -18,7 +18,7 @@
 Install the package using npm:
 
 ```bash
-npm install time-sortner
+npm install time-simplify
 ```
 
 ---
@@ -28,7 +28,7 @@ npm install time-sortner
 ### Importing the Package
 
 ```javascript
-const DateFormatHelper = require('time-sortner');
+const DateFormatHelper = require('time-simplify');
 ```
 
 ### Creating a Formatter
